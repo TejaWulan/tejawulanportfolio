@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tejawulanportfolio/static/css/main.9ac2fc52.css",
-    "main.js": "/tejawulanportfolio/static/js/main.0a60b662.js",
-    "static/media/wideeduwebsite2.png": "/tejawulanportfolio/static/media/wideeduwebsite2.cc51ac1d58e7a40cb48f.png",
+    "main.js": "/tejawulanportfolio/static/js/main.fc374a90.js",
+    "static/media/wideeduwebsite1.png": "/tejawulanportfolio/static/media/wideeduwebsite1.3af6a41e6258d3ba67c5.png",
     "static/media/Teja deleted background.png": "/tejawulanportfolio/static/media/Teja deleted background.d5f8a26a5c18881bf73a.png",
     "static/media/Java WCC.webp": "/tejawulanportfolio/static/media/Java WCC.840aecd9ca56eeae0c56.webp",
     "static/media/Resume.pdf": "/tejawulanportfolio/static/media/Resume.ffe704bcef838399c3a5.pdf",
@@ -10,10 +10,10 @@
     "static/media/logo.png": "/tejawulanportfolio/static/media/logo.7ba38d717788056e25a1.png",
     "index.html": "/tejawulanportfolio/index.html",
     "main.9ac2fc52.css.map": "/tejawulanportfolio/static/css/main.9ac2fc52.css.map",
-    "main.0a60b662.js.map": "/tejawulanportfolio/static/js/main.0a60b662.js.map"
+    "main.fc374a90.js.map": "/tejawulanportfolio/static/js/main.fc374a90.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac2fc52.css",
-    "static/js/main.0a60b662.js"
+    "static/js/main.fc374a90.js"
   ]
 }
