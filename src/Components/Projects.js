@@ -1,6 +1,6 @@
 import React from 'react';
 import ProjectBox from './ProjectBox';
-import NewsletterImage from '../images/wideeduwebsite2.png';
+import NewsletterImage from '../images/wideeduwebsite1.png';
 import RogfreeImage from '../images/Java WCC.webp';
 import TindogImage from '../images/wiress-logo.png';
 
