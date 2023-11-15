@@ -46,10 +46,10 @@ function App() {
       <MoveToTop/>
 
       <Routes>
-        <Route path="/tejawulanportfolio" element={<Home/>} />
-        <Route path="/tejawulanportfolio/About" element={<About/>}/>
+        <Route path="/" element={<Home/>} />
+        <Route path="/About" element={<About/>}/>
         {/* <Route path="/Project" element={<Project/>}/> */}
-        <Route path="/tejawulanportfolio/Resume" element={<Resume/>}/>
+        <Route path="/Resume" element={<Resume/>}/>
       </Routes>
       
       <Footer/>
