@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ac2fc52.css",
-    "main.js": "/static/js/main.922bd2e9.js",
-    "static/media/RogfreeImage.png": "/static/media/RogfreeImage.993cda77ba697f732f83.png",
-    "static/media/Teja deleted background.png": "/static/media/Teja deleted background.d5f8a26a5c18881bf73a.png",
-    "static/media/Resume.pdf": "/static/media/Resume.ffe704bcef838399c3a5.pdf",
-    "static/media/TindogImage.png": "/static/media/TindogImage.4e5a87d8a7a948be72d7.png",
-    "static/media/NewsletterImage.png": "/static/media/NewsletterImage.c26ff2e9ad8650e93ad0.png",
-    "static/media/logo.png": "/static/media/logo.7ba38d717788056e25a1.png",
-    "index.html": "/index.html",
-    "main.9ac2fc52.css.map": "/static/css/main.9ac2fc52.css.map",
-    "main.922bd2e9.js.map": "/static/js/main.922bd2e9.js.map"
+    "main.css": "/tejawulanportfolio/static/css/main.9ac2fc52.css",
+    "main.js": "/tejawulanportfolio/static/js/main.8d65f78a.js",
+    "static/media/RogfreeImage.png": "/tejawulanportfolio/static/media/RogfreeImage.993cda77ba697f732f83.png",
+    "static/media/Teja deleted background.png": "/tejawulanportfolio/static/media/Teja deleted background.d5f8a26a5c18881bf73a.png",
+    "static/media/Resume.pdf": "/tejawulanportfolio/static/media/Resume.ffe704bcef838399c3a5.pdf",
+    "static/media/TindogImage.png": "/tejawulanportfolio/static/media/TindogImage.4e5a87d8a7a948be72d7.png",
+    "static/media/NewsletterImage.png": "/tejawulanportfolio/static/media/NewsletterImage.c26ff2e9ad8650e93ad0.png",
+    "static/media/logo.png": "/tejawulanportfolio/static/media/logo.7ba38d717788056e25a1.png",
+    "index.html": "/tejawulanportfolio/index.html",
+    "main.9ac2fc52.css.map": "/tejawulanportfolio/static/css/main.9ac2fc52.css.map",
+    "main.8d65f78a.js.map": "/tejawulanportfolio/static/js/main.8d65f78a.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac2fc52.css",
-    "static/js/main.922bd2e9.js"
+    "static/js/main.8d65f78a.js"
   ]
 }
