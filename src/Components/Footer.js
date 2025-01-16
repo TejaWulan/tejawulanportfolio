@@ -12,7 +12,6 @@ const Footer = () => {
         <a href="https://github.com/TejaWulan" target='_blank'><FaGithub/></a>
         <a href="https://www.linkedin.com/in/teja-wulan-8673a6237/?originalSubdomain=id" target='_blank'><FaLinkedin/></a>
         <a href='mailTo:tejawulan8@gmail.com' target='_blank'><GrMail/></a>
-        {/* <a href="https://leetcode.com/sahni1403/" target="_blank"><SiLeetcode/></a> */}
       </div>
     </footer>
   )
