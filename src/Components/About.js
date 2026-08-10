@@ -10,16 +10,18 @@ const About = () => {
       <div className='AboutPage'>
         <div className='AboutText'>
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
-          <p>
-            Hi, my name is <b>Teja Wulan</b> and I am from Tangerang Indonesia.
-            I'm a <b>software developer </b>from July 2022 - now. Logical thinking and problem solving. 
-           I have internship experience at at PT. Starcom Solusindo with responsibility for checking  <b>IT components. </b>  
-            such as IDU, ODU, PoE, Subscribes Station, and conducting maintenance on these components and APS Power Supply. 
-            I have a Java Programming  training certificate from Prakerja and simple building installations issued by KEMNAKER, education and training on low voltage installations from PPSDM KEBTKE of the Ministry of Energy and Mineral Resources, 
-            and others you can check on my resume.
-            I was once the Vice Chairman of the Shihonbu.<br/><br/>
-            I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br/>
-            Apart from coding I love sing and make a song. You can check here. If there isn't a list of songs, I haven't licensed them yet. So if it's already there it's because I published it <a href="https://my.scorecloud.com/user/7b6a23adfe85a7e0d9754946128192c1/tejawulan7" target='_blank'>ScoreCloud.</a>
+         <p>
+            Hi, my name is <b>Teja Wulan</b>, a <b>Software Engineer</b> with a Bachelor's degree in Electrical Engineering (GPA 3.45) from Universitas Siliwangi.<br/><br/>
+
+            Since July 2022, I have been working at <b>PT. Wide Technologies Indonesia</b>, specializing in backend and full-stack development. I have hands-on experience building clean-code applications using <b>Java</b> and <b>Golang</b>, managing complex <b>state machines</b>, integrating APIs (such as Xendit VA & SiCepat), and optimizing REST endpoints and database queries.<br/><br/>
+
+            Additionally, I serve as a trainer/instructor for <b>Java & SQL Bootcamps</b> at Wide Edu, and I have completed freelance projects including end-to-end UI/UX & frontend development for corporate websites.<br/><br/>
+
+            I hold various certifications including the <b>Prompt Design in Vertex AI Skill Badge</b> from Google, Java Programming Course-Net (Prakerja), and Electrical Certifications from KEMNAKER and Ministry of Energy and Mineral Resources (ESDM).<br/><br/>
+
+            I am <b>open</b> to new opportunities and collaborations where I can contribute, solve complex problems, and grow. Feel free to connect with me!<br/><br/>
+
+            Apart from coding, I love music and creating songs. You can check my published work on <a href="https://my.scorecloud.com/user/7b6a23adfe85a7e0d9754946128192c1/tejawulan7" target='_blank' rel="noreferrer">ScoreCloud</a>.
           </p>
         </div>
 

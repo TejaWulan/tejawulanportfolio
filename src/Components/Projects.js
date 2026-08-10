@@ -5,13 +5,18 @@ import WideEduWebsite2 from '../images/wideeduwebsite2.png';
 import JavaCourse from '../images/Java WCC.webp';
 import MySQL from '../images/My SQL WCC.webp';
 import WIRESS from '../images/wiress-logo.png';
-
+import Adaloka from '../images/Adaloka.png';
+import Migoku from '../images/migoku.png';
+import Milenial from '../images/milenialcoalindo.png';
 
 const Projects = () => {
   return (
     <div>
       <h1 className='projectHeading'>My <b>Projects</b></h1>
       <div className='project'>
+        <ProjectBox projectPhoto={Milenial} projectName="Freelance FE Milenial Sukses Coalindo" />
+        <ProjectBox projectPhoto={Adaloka} projectName="Adaloka" />
+        <ProjectBox projectPhoto={Migoku} projectName="Migoku" />
         <ProjectBox projectPhoto={WideEduWebsite1} projectName="WIDE Edu Website" />
         <ProjectBox projectPhoto={JavaCourse} projectName="Java Basic Programming" />
         <ProjectBox projectPhoto={WideEduWebsite2} projectName="WIDE Edu Website currently" />
