@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tejawulanportfolio/static/css/main.9ac2fc52.css",
+    "main.js": "/tejawulanportfolio/static/js/main.9eda3ba1.js",
+    "static/media/wideeduwebsite1.png": "/tejawulanportfolio/static/media/wideeduwebsite1.3af6a41e6258d3ba67c5.png",
+    "static/media/wideeduwebsite2.png": "/tejawulanportfolio/static/media/wideeduwebsite2.cc51ac1d58e7a40cb48f.png",
+    "static/media/milenialcoalindo.png": "/tejawulanportfolio/static/media/milenialcoalindo.1bf26a49f98c3272baea.png",
+    "static/media/Teja deleted background.png": "/tejawulanportfolio/static/media/Teja deleted background.d5f8a26a5c18881bf73a.png",
+    "static/media/Resume.pdf": "/tejawulanportfolio/static/media/Resume.2188f0fa61b57c4be42f.pdf",
+    "static/media/My SQL WCC.webp": "/tejawulanportfolio/static/media/My SQL WCC.432a5b9e4abf56ccab15.webp",
+    "static/media/Java WCC.webp": "/tejawulanportfolio/static/media/Java WCC.840aecd9ca56eeae0c56.webp",
+    "static/media/wiress-logo.png": "/tejawulanportfolio/static/media/wiress-logo.7fe71bfd01120f4850c7.png",
+    "static/media/logo.png": "/tejawulanportfolio/static/media/logo.7ba38d717788056e25a1.png",
+    "index.html": "/tejawulanportfolio/index.html",
+    "main.9ac2fc52.css.map": "/tejawulanportfolio/static/css/main.9ac2fc52.css.map",
+    "main.9eda3ba1.js.map": "/tejawulanportfolio/static/js/main.9eda3ba1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac2fc52.css",
+    "static/js/main.9eda3ba1.js"
+  ]
+}
